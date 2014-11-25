@@ -9,7 +9,7 @@ config = {
     // ### Production
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
-    production: {
+    production: { 
         url: 'http://shanswami2.azurewebsites.net/',
         mail: {},
         database: {
